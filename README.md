@@ -12,7 +12,7 @@
 ## Software & Document File Download URL
   
 
- - Multiple measurement : 
+ - Multiple measurement : https://github.com/Nitto-Flexible-Sensor/Robot-hand/releases/tag/Multiple_measurement_v1.0
 
 
  - 3D model : 
