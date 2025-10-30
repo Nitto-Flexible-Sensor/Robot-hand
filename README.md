@@ -5,6 +5,8 @@
 
 ## Categories 
   - Multiple measurement
+
+  - High speed
  
   - 3D model
 
@@ -14,5 +16,6 @@
 
  - Multiple measurement : https://github.com/Nitto-Flexible-Sensor/Robot-hand/releases/tag/Multiple_measurement_v1.0
 
+ - High speed :
 
  - 3D model : 
