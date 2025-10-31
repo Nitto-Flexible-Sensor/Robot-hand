@@ -16,6 +16,6 @@
 
  - Multiple measurement : https://github.com/Nitto-Flexible-Sensor/Robot-hand/releases/tag/Multiple_measurement_v1.0
 
- - High speed :
+ - High speed : https://github.com/Nitto-Flexible-Sensor/Robot-hand/releases/tag/High_speed_v1.0
 
  - 3D model : 
